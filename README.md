@@ -62,9 +62,14 @@ How does Citizen AI ensure transparency?
 🔹 Integration with real-time government service data.
 
 🔹 Advanced analytics dashboard for policymakers.
-Demo Video
-Watch Demo
-
 
 🔹 Voice-based query support.
+
+
+
+👩‍💻 Author
+
+This project is created by afroz,afra,payesa,shafeeqa As part of the Naan Mudhalvan (NM) program.
+
+
 
